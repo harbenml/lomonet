@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: LOMONET - Local Model Network library
+      title: core
       url: core.html
     output: web
     title: lomonet

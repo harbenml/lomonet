@@ -1,6 +1,6 @@
 {
   "lomonet": {
     "Overview": "/",
-    "LOMONET - Local Model Network library": "core.html"
+    "core": "core.html"
   }
 }

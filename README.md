@@ -5,6 +5,8 @@
 
 This file will become your README and also the index of your documentation.
 
+Link to the documentation: https://harbenml.github.io/lomonet/
+
 ## Install
 
 `pip install lomonet`
