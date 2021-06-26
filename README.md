@@ -3,7 +3,8 @@
 > This is a library for training of local model networks.
 
 
-This file will become your README and also the index of your documentation.
+You can find the documentation here:
+https://harbenml.github.io/lomonet/
 
 ## Install
 
