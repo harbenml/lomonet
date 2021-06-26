@@ -15,7 +15,7 @@ Link to the documentation: https://harbenml.github.io/lomonet/
 
 Fill me in please! Don't forget code examples:
 
-```python
+```
 1+1
 ```
 
@@ -26,6 +26,6 @@ Fill me in please! Don't forget code examples:
 
 
 
-```python
+```
 assert say_hello("Frieda") == "Hello Frieda!"
 ```

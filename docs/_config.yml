@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
       comments: true
       search: true
       sidebar: home_sidebar
@@ -51,7 +51,7 @@ defaults:
       path: ""
       type: "tooltips"
     values:
-      layout: "page"
+      layout: "default"
       comments: true
       search: true
       tooltip: true
