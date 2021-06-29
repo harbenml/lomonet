@@ -3,9 +3,14 @@
 > This is a library for training of local model networks.
 
 
-This file will become your README and also the index of your documentation.
+This file will become the README and also the index of the documentation.
 
 Link to the documentation: https://harbenml.github.io/lomonet/
+
+ToDo
+- create a simple RBF network
+- extend it such that it has polynomial local models
+- add additional example for online adaptation
 
 ## Install
 
@@ -15,7 +20,7 @@ Link to the documentation: https://harbenml.github.io/lomonet/
 
 Fill me in please! Don't forget code examples:
 
-```
+```python
 1+1
 ```
 
@@ -26,6 +31,6 @@ Fill me in please! Don't forget code examples:
 
 
 
-```
+```python
 assert say_hello("Frieda") == "Hello Frieda!"
 ```
